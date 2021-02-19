@@ -3,6 +3,8 @@
 
 ![Image de présentation de Toque Chef](./.README_files/header2.png)
 
+[Description du projet]
+
 ---
 
 ## Équipe
