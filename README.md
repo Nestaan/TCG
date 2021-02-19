@@ -1,4 +1,5 @@
 # Toque Chef
+**Version 0.1.0**
 
 ![Image de présentation de Toque Chef](./.README_files/header2.png)
 
@@ -23,6 +24,6 @@
 
 - Marie SENTIER, Promotion & Marketing 
     - <marie.sentier@etudiant.univ-reims.fr>
-    
+
 - Nesta RICHARDEAU, Développement Back
     - <nesta.contact@gmail.com>
