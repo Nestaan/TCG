@@ -29,3 +29,9 @@
 
 - Nesta RICHARDEAU, Développement Back
     - <nesta.contact@gmail.com>
+
+---
+ 
+ ## Licence & Copyright
+
+ © 2021 Piorra All Rights Reserved
