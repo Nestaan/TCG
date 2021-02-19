@@ -7,6 +7,12 @@
 
 ---
 
+## Synopsis
+
+[synopsis du jeu]
+
+---
+
 ## Équipe
 
 - Alexis LORMIER, Communication Web & Print
